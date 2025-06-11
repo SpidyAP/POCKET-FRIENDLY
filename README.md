@@ -1,1 +1,1 @@
-# POCKET-FRIENDLY
+# pocket-friendly
